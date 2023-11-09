@@ -2,7 +2,7 @@
 The main repository for Aerove ICUAS 2022 UAV competition.
 
 <img src="/media/official_depiction.gif" width="40%" height="40%"/> <img  src="/media/sim_environment.png" width="40%" height="40%"/><br>
-
+<img src="/media/throw gif.gif" width="70%" height="70%"/>
 
 | ICUAS 2022 Competition build status | [![Melodic](https://github.com/larics/icuas22_competition/actions/workflows/melodic.yaml/badge.svg)](https://github.com/larics/icuas22_competition/actions/workflows/melodic.yaml)  | [![Noetic](https://github.com/larics/icuas22_competition/actions/workflows/noetic.yaml/badge.svg)](https://github.com/larics/icuas22_competition/actions/workflows/noetic.yaml) |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
